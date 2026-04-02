@@ -18,6 +18,7 @@ project/
 │
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
+├── images/             # Project images
 └── README.md           # Project documentation
 ```
 
